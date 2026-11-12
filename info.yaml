@@ -4,7 +4,7 @@ project:
   title:        "Class 19 Activity: Open Source IC Design Demo"      # Project title
   author:       "Christian Wang"      # Your name
   discord:      "_chrss_"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Wokwi tiny tapeout circut for ECSE 1010 Class 19 activity."      # One line description of what your project does
+  description:  "Wokwi tiny tapeout circut for ECSE 1010 Class 19 activity"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
